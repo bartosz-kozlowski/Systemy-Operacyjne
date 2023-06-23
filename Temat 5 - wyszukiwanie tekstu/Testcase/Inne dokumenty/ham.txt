@@ -1,0 +1,45 @@
+Ilość wierzchołków 100
+Czas znalezienia cyklu Eulera dla grafu 30% 0.00099897384643554688 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00199985504150390625 sekund
+Ilość wierzchołków 200
+Czas znalezienia cyklu Eulera dla grafu 30% 0.00299906730651855469 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00000000000000000000 sekund
+Ilość wierzchołków 300
+Czas znalezienia cyklu Eulera dla grafu 30% 0.00709772109985351562 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00000000000000000000 sekund
+Ilość wierzchołków 400
+Czas znalezienia cyklu Eulera dla grafu 30% 0.01456046104431152344 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00000000000000000000 sekund
+Ilość wierzchołków 500
+Czas znalezienia cyklu Eulera dla grafu 30% 0.02843594551086425781 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.01545977592468261719 sekund
+Ilość wierzchołków 600
+Czas znalezienia cyklu Eulera dla grafu 30% 0.04993462562561035156 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.01251053810119628906 sekund
+Ilość wierzchołków 700
+Czas znalezienia cyklu Eulera dla grafu 30% 0.07362127304077148438 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00300025939941406250 sekund
+Ilość wierzchołków 800
+Czas znalezienia cyklu Eulera dla grafu 30% 0.11353588104248046875 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00099992752075195312 sekund
+Ilość wierzchołków 900
+Czas znalezienia cyklu Eulera dla grafu 30% 0.15931057929992675781 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00299882888793945312 sekund
+Ilość wierzchołków 1000
+Czas znalezienia cyklu Eulera dla grafu 30% 0.21119332313537597656 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.01350951194763183594 sekund
+Ilość wierzchołków 1100
+Czas znalezienia cyklu Eulera dla grafu 30% 0.28521847724914550781 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.01100087165832519531 sekund
+Ilość wierzchołków 1200
+Czas znalezienia cyklu Eulera dla grafu 30% 0.36917662620544433594 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00199866294860839844 sekund
+Ilość wierzchołków 1300
+Czas znalezienia cyklu Eulera dla grafu 30% 0.47626852989196777344 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.00100231170654296875 sekund
+Ilość wierzchołków 1400
+Czas znalezienia cyklu Eulera dla grafu 30% 0.60308003425598144531 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.27699708938598632812 sekund
+Ilość wierzchołków 1500
+Czas znalezienia cyklu Eulera dla grafu 30% 0.76426625251770019531 sekund
+Czas znalezienia cyklu Hamiltona dla grafu 30% 0.14399003982543945312 sekund

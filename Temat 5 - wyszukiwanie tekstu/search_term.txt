@@ -1,0 +1,43 @@
+#!/bin/bash
+
+search_term=$1
+
+search_file() {
+    file_path=$1
+
+    case $file_path in
+        *.pdf)
+            pdftotext "$file_path" - | grep -q "$search_term"
+            ;;
+        *.gz)
+            zgrep -q "$search_term" "$file_path"
+            ;;
+        *.bz2)
+            bzgrep -q "$search_term" "$file_path"
+            ;;
+        *.xz)
+            xzgrep -q "$search_term" "$file_path"
+            ;;
+        *.zip|*.docx|*.odt)
+            unzip -c "$file_path" | grep -q "$search_term"
+            ;;
+        *)
+            grep -q "$search_term" "$file_path"
+            ;;
+    esac
+}
+
+for dir in "${@:2}"
+do
+    find "$dir" -type f -print0 | while read -d $'\0' file_path
+    do
+        if ! search_file "$file_path" 2>/dev/null
+        then
+            continue
+        fi
+
+        echo "$file_path"
+    done
+done
+
+
